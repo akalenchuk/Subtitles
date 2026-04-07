@@ -13,5 +13,5 @@ Inspired by ChigyuSubs work, these subtitles were generated as follows:
 
 | Episode | File |
 |---|---|
-| 2026-01-01 Part 1 | [Entertainer Rating Check 2026-01-01 - Part 1.srt] (Entertainer-Rating-Check/01-01-2026/Entertainer Rating Check 2026-01-01 - Part 1.srt) |
+| 2026-01-01 Part 1 | [Entertainer_Rating_Check_2026-01-01_Part_1.srt] (Entertainer_Rating_Check/01-01-2026/Entertainer_Rating_Check_2026-01-01_Part_1.srt) |
 
